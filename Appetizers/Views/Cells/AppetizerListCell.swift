@@ -1,9 +1,4 @@
-//
-//  AppetizerListCell.swift
-//  Appetizers
-//
-//  Created by Sean Allen on 11/12/20.
-//
+
 
 import SwiftUI
 

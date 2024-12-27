@@ -1,9 +1,4 @@
-//
-//  String+Ext.swift
-//  Appetizers
-//
-//  Created by Sean Allen on 11/16/20.
-//
+
 
 import Foundation
 import RegexBuilder

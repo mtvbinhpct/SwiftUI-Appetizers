@@ -1,9 +1,4 @@
-//
-//  EmptyState.swift
-//  Appetizers
-//
-//  Created by Sean Allen on 11/19/20.
-//
+
 
 import SwiftUI
 

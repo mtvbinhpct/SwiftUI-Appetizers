@@ -1,9 +1,4 @@
-//
-//  Order.swift
-//  Appetizers
-//
-//  Created by Sean Allen on 11/20/20.
-//
+
 
 import SwiftUI
 

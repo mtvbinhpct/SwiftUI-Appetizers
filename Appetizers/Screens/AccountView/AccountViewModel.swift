@@ -1,9 +1,4 @@
-//
-//  AccountViewModel.swift
-//  Appetizers
-//
-//  Created by Sean Allen on 11/16/20.
-//
+
 
 import SwiftUI
 

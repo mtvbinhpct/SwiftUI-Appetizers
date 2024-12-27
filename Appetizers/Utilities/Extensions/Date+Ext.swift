@@ -1,9 +1,3 @@
-//
-//  Date+Ext.swift
-//  Appetizers
-//
-//  Created by Sean Allen on 11/21/20.
-//
 
 import Foundation
 
